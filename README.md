@@ -22,17 +22,14 @@ Installation
 Clone the repository:
 
 bash
-Copy code
 git clone https://github.com/srishtipandey12/secret-tool.git
 Navigate to the project directory:
 
 bash
-Copy code
 cd secret-tool
 Run the application:
 
 bash
-Copy code
 python secret_tool.py
 Note: You need Python 3 installed on your system to run this application.
 
